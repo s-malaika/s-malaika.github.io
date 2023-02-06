@@ -103,7 +103,7 @@ body.page-template-page-fullsingle-me {
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 1) 100%
     ),
-    url('../../images/hur_o.jpg');
+    url('../../images/000034.webp');
 
   background-position: center center;
   background-size: cover;
@@ -253,3 +253,17 @@ body.page-template-page-fullsingle-me h1 {
   -webkit-transition: 0.1s;
   transition: 0.1s;
 }
+
+
+/**
+Das ist ein Kommentar
+*/
+
+h1
+ {color: whitesmoke;
+background-color: royalblue;
+padding: 16px;}
+
+h2 {color: royalblue;
+margin-top: 16px;}
+p {color: royalblue}
