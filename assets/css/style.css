@@ -262,7 +262,8 @@ Das ist ein Kommentar
 h1
  {color: whitesmoke;
 background-color: royalblue;
-padding: 16px;}
+padding: 16px;
+font: 300px charter, normal;}
 
 h2 {color: whitesmoke;
 margin-top: 16px;}
